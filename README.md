@@ -52,7 +52,7 @@ A "Asteroid" like game, made in unity
 
 :heavy_check_mark: Player movement and rotation;\
 :heavy_check_mark: Collisions with Colliders and RigibBody;\
-:heavy_check_mark: A Game over screen to restart the game;
+:heavy_check_mark: A Game over screen to restart the game;\
 :heavy_check_mark: A Score;
 
 ## :rocket: Technologies ##

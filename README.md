@@ -46,13 +46,16 @@
 
 ## :dart: About ##
 
-A "Asteroid" like game, made in unity
+A "Asteroid" like game, made in unity.
+
+Use "W" "A" "S" "D" or Arrow Keys to move the player and "SPACE" to shoot.
 
 ## :sparkles: Features ##
 
 :heavy_check_mark: Player movement and rotation;\
 :heavy_check_mark: Collisions with Colliders and RigibBody;\
 :heavy_check_mark: A Game over screen to restart the game;\
+:heavy_check_mark: Projectiles prefabs;\
 :heavy_check_mark: A Score;
 
 ## :rocket: Technologies ##

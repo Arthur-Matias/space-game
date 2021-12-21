@@ -1,5 +1,5 @@
 <div align="center" id="top"> 
-  <img src="./Assets/SpaceGame.png" alt="Space Game" />
+  <img src="./assets/SpaceGame.png" alt="Space Game" />
 
   &#xa0;
 

@@ -15,13 +15,13 @@
 
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/Arthur-Matias/space-game?color=56BEB8">
 
-  <img alt="License" src="https://img.shields.io/github/license/Arthur-Matias/space-game?color=56BEB8">
+<!--   <img alt="License" src="https://img.shields.io/github/license/Arthur-Matias/space-game?color=56BEB8"> -->
 
   <!-- <img alt="Github issues" src="https://img.shields.io/github/issues/Arthur-Matias/space-game?color=56BEB8" /> -->
 
   <!-- <img alt="Github forks" src="https://img.shields.io/github/forks/Arthur-Matias/space-game?color=56BEB8" /> -->
 
-  <!-- <img alt="Github stars" src="https://img.shields.io/github/stars/Arthur-Matias/space-game?color=56BEB8" /> -->
+  <img alt="Github stars" src="https://img.shields.io/github/stars/Arthur-Matias/space-game?color=56BEB8" />
 </p>
 
 <!-- Status -->
@@ -36,7 +36,7 @@
   <a href="#dart-about">About</a> &#xa0; | &#xa0; 
   <a href="#sparkles-features">Features</a> &#xa0; | &#xa0;
   <a href="#rocket-technologies">Technologies</a> &#xa0; | &#xa0;
-  <a href="#memo-license">License</a> &#xa0; | &#xa0;
+<!--   <a href="#memo-license">License</a> &#xa0; | &#xa0; -->
   <a href="https://github.com/Arthur-Matias" target="_blank">Author</a>
 </p>
 

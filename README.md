@@ -44,7 +44,7 @@
 
 ## :dart: About ##
 
-A "Asteroids" like game, made in unity and built for the web with the WebGL plugin. Use <b>W</b>, <b>A</b>, <b>S</b>, <b>D</b> or <b>Arrow Keys</b> to move the player and <b>SPACE</b> to shoot.
+A "Asteroids" like game, made in unity and built for the web with the WebGL plugin. Use <b>W</b>, <b>A</b>, <b>S</b>, <b>D</b> or <b>Arrow Keys</b> to move the player and <b>SPACE</b> to shoot. Check the [live version](https://arthur-matias.github.io/space-game/)
 
 ## :sparkles: Features ##
 

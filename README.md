@@ -44,9 +44,7 @@
 
 ## :dart: About ##
 
-A "Asteroid" like game, made in unity.
-
-Use "W" "A" "S" "D" or Arrow Keys to move the player and "SPACE" to shoot.
+A "Asteroids" like game, made in unity and built for the web with the WebGL plugin. Use <b>W</b>, <b>A</b>, <b>S</b>, <b>D</b> or <b>Arrow Keys</b> to move the player and <b>SPACE</b> to shoot.
 
 ## :sparkles: Features ##
 
